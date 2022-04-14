@@ -1,16 +1,3 @@
-<?php
-session_start();
-
-if(!isset($_SESSION['zalogowany'])){
-    header('Location: /login.php');
-}
-
-if($_SESSION['zalogowany']){
-    
-}
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
