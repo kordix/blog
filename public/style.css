@@ -1,5 +1,12 @@
 h1{
     font-size:2rem !important;
+    cursor:pointer;
+    color: #212529;!important;
+}
+
+
+h1:hover{
+    text-decoration:underline;
 }
 
 .readmore{
@@ -7,13 +14,24 @@ h1{
 }
 
 .articleimage{
-    width:300px;
-    height:200px;
-    /* border-radius:100%; */
-    padding:10px;
-    margin-top:40px;
+    height:150px;width:200px;padding:10px;margin-left:50px;margin-top:20px;object-fit:contain 
 }
 
-@media (max-width: 600px){
+.articleimageinside{
+    height:150px;width:200px;padding:10px;object-fit:contain 
+}
 
+
+@media (max-width: 800px){
+    .articleimage{
+        flex-grow: 100%;
+        flex-basis:100%;
+    }
+}
+
+
+p{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;   
 }

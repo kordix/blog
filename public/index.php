@@ -23,27 +23,36 @@
 <?php  include 'navbar.php' ?>
     
     <div  class="container" id="app" style="padding:1% 5%">
+    
+    <article>    
+    <div style="display:flex;justify-content:space-between">   
+        <div class="articleheader">
+        <a href="articles/covid.php"><h1>Przemyślenia o covid </h1></a>
+            <p class="data">30-08-2022</p>
+            <hr>
+            W internecie czy gdziekolwiek w miediach cieżko znaleźć racjonalny głoś odnośnie pandemii covid. Mamy do czynienia albo z "oficjalną narracją" , która najczęściej wiąże się z gównopaniką, albo z teoriami spiskowymi lub zupełnym "olewactwem" niemałego też zagrożenia...
+            <p><a href="articles/covid.php" class="readmore">Czytaj więcej</a></p>
+         </div>
+        <a href="articles/covid.php"> <img src="/images/covid.jpg" class="articleimage" alt=""> </a>
+    </div>
+    </article>
 
-     <!-- <div style="display:flex;justify-content:space-between">    -->
-     <!-- <div class="articleheader"> -->
-        <h1>Przemyślenia o covid</h1>
-        <p class="data">30-06-2022</p>
-      <!-- </div> -->
-        <!-- <img src="/images/covid.jpg" alt=""> -->
-       <!-- </div> -->
-    <hr>
-    W internecie czy gdziekolwiek w miediach cieżko znaleźć racjonalny głoś odnośnie pandemii covid. Mamy do czynienia albo z "oficjalną narracją" , która najczęściej wiąże się z gównopaniką, albo z teoriami spiskowymi lub zupełnym "olewactwem" niemałego też zagrożenia...
-    <p><a href="articles/covid.php" class="readmore">Czytaj więcej</a></p>
+
+    <article>    
+    <div style="display:flex;justify-content:space-between">   
+        <div class="articleheader">
+        <a href="articles/ukraina.php"><h1>Przemyślenia o Ukrainie </h1></a>
+            <p class="data">30-06-2022</p>
+            <hr>
+            Putin może być człowiekiem złym , bardzo złym, szalonym albo niesamowicie głupim - tak czy inaczej takie rzeczy trzeba
+            kalkulować. Jeśli Ukraina będzie się pchać do UE i NATO - będzie wojna - i Putin wielokrotnie to oznajmiał...
+            <p><a href="articles/ukraina.php" class="readmore">Czytaj więcej</a></p>
+         </div>
+         <a href="articles/ukraina.php"> <img src="/images/ukraina.jpg" class="articleimage" alt=""></a>
+    </div>
+    </article>
+
     <br>
-
-    <h1>Przemyślenia o Ukrainie</h1>
-    <p class="data">20-06-2022</p>
-    <hr>
-    Putin może być człowiekiem złym , bardzo złym, szalonym albo niesamowicie głupim - tak czy inaczej takie rzeczy trzeba
-    kalkulować. Jeśli Ukraina będzie się pchać do UE i NATO - będzie wojna - i Putin wielokrotnie to oznajmiał...
-    <p><a href="articles/ukraina.php" class="readmore">Czytaj więcej</a></p>
-    <br>
-
     <br>
     <br>
     <br>
