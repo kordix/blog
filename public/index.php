@@ -6,6 +6,7 @@
     <title>Blog</title>
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         #wyloguj{
             display:block;
@@ -21,14 +22,64 @@
 <div id="app">
 <?php  include 'navbar.php' ?>
     
-    <div  class="container" id="app">
+    <div  class="container" id="app" style="padding:1% 5%">
 
-    <?php include 'articles/covid.html' ?>
-
-    <?php include 'articles/ukraina.html' ?>
-
-
+     <!-- <div style="display:flex;justify-content:space-between">    -->
+     <!-- <div class="articleheader"> -->
+        <h1>Przemyślenia o covid</h1>
+        <p class="data">30-06-2022</p>
+      <!-- </div> -->
+        <!-- <img src="/images/covid.jpg" alt=""> -->
+       <!-- </div> -->
     <hr>
+    W internecie czy gdziekolwiek w miediach cieżko znaleźć racjonalny głoś odnośnie pandemii covid. Mamy do czynienia albo z "oficjalną narracją" , która najczęściej wiąże się z gównopaniką, albo z teoriami spiskowymi lub zupełnym "olewactwem" niemałego też zagrożenia...
+    <p><a href="articles/covid.php" class="readmore">Czytaj więcej</a></p>
+    <br>
+
+    <h1>Przemyślenia o Ukrainie</h1>
+    <p class="data">20-06-2022</p>
+    <hr>
+    Putin może być człowiekiem złym , bardzo złym, szalonym albo niesamowicie głupim - tak czy inaczej takie rzeczy trzeba
+    kalkulować. Jeśli Ukraina będzie się pchać do UE i NATO - będzie wojna - i Putin wielokrotnie to oznajmiał...
+    <p><a href="articles/ukraina.php" class="readmore">Czytaj więcej</a></p>
+    <br>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
+    <?php //include 'articles/covid.html' ?>
+
+    <?php //include 'articles/ukraina.html'?>
+
+
 
 </div>
 

@@ -1,7 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Przemyślenia o Covid</title>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        #wyloguj{
+            display:block;
+        }
+
+        #app {
+            text-align:justify;
+        }
+    </style>
+</head>
+
+<?php  include '../navbar.php' ?>
+
+<div  class="container" id="app" style="padding:1% 5%">
+
+
+
+
 <h1>Przemyślenia o Ukrainie</h1>
 
-Putin może być człowiekiem złym , bardzo złym, szalonym albo niesamowicie głupim - tak czy inaczej takie rzeczy trzeba
-kalkulować. Jeśli Ukraina będzie się pchać do UE i NATO - będzie wojna - i Putin wielokrotnie to oznajmiał.
+<p style=""> Putin może być człowiekiem złym , bardzo złym, szalonym albo niesamowicie głupim - tak czy inaczej takie rzeczy trzeba
+kalkulować. Jeśli Ukraina będzie się pchać do UE i NATO - będzie wojna - i Putin wielokrotnie to oznajmiał. </p>
 
 <br>Tak więc nie powiedziałbym że to szaleństwo - raczej wypełnianie zobowiązań. To żadne usprawiedliwianie tyrana,
 zaznaczam tylko że to było do przewidzenia, tak więc jeśli chcemy mieć Ukrainę w NATO czy UE trzeba było odpowiednio to
@@ -78,7 +105,7 @@ rzucił na Ukrainę właśnie przez walkę z oligarchią , korupcją, o demokrat
 <br>Ze strony wszelkiej maści ekspertów nie widać żadnego konkretnego scenariusza, planu, kompromisu. Wiadomo że
 Ukraińcy się na.pierdalają, trzeba im wysyłać kasę, jakieś pomoce i broń, ale nie ma konkretnego stanowiska żeby im
 pomóc, coś tam się "dziubie". Może żeby uniknąć rozlewu krwi już lepiej by było uznać neutralność Ukrainy. Pytanie co
-zrobiliby Rosjanie - wsadziliby ludzi do gułagów, a może by lepiej zagospodarowali kraj?
+zrobiliby Rosjanie - wsadziliby ludzi do gułagów, a może by lepiej zagospodarowali obszar?
 <br>Ja bym miał w głowie taki "bezkrwawy scenariusz" - można by było pójść na żądania Rosji, armię wycofać do państw
 NATO*, postawić tam jakiegoś ruskiego pachołka, ale hybrydowo dalej wspierać Ukrainę. Dać pozory dla Ławrowa że
 realizuje się jego narracja. Maksymalnie załączyć wszystkie bezkrwawe metody wpływania na reżim. Medialnie cały czas
@@ -134,3 +161,9 @@ nie mają ani terytoriów, ani surowców.
 <br><br>
 
 <i>"Przecież USA może od nas te migi 29 , i sprzedać je z bonifikatą 99.9 % Ukrainie , w czym problem ,my nie będziemy zamieszani w dostarczanie takiej broni do Ukrainy , a oni będą mieli czym walczyć ze złem ogólnoświatowym . A może się mylę i tak nie wolno ,ale skoro putler robi szewskie numery ,to czy innym już niekoniecznie . Przekazujmy swoją broń ofensywną UKR a USA nam da w to miejsce całkiem nową . Niemcy raczej niech się nie wychylają ze swoim 30-letnim spleśniałym złomem ,i tak w kajecie zapiszą ile to przekazali dobrego uzbrojenia Ukrainie do późniejszego rozliczenia."</i>
+
+
+<i>"Gdyby nie USA, które były naszym wieloletnim ochroniarzem, UE nigdy by się tak nie rozwinęła - wszystkie kraje UE mogły mieć w dupie wojsko i ładować kasę w inne sfery gospodarki. Ale dzięki współpracy Niemców z ruskimi można już o tym zapomnieć."</i>
+
+
+<div>
