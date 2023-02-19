@@ -42,12 +42,14 @@ zaznaczam tylko że to było do przewidzenia, tak więc jeśli chcemy mieć Ukra
 zaplanować, przyszykować odpowiednie środki albo zrezygnować z tego pomysłu, a nie dziwić się że jest wojna.</p>
 
 
-<p>Zastanawiam się gdzie ci wszyscy eksperci od pokoju z międzynarodowych organizacji, agend, think tanków? Jak nie
-było od dłuższego czasu wojny to za bardzo się przyzwyczaili do wysokich gaży bez konieczności podejmowania żadnych
-działań.</p>
+<p>Putin jak najbardziej ma przewidziany wariant pokojowy - byłoby to oddanie Ukrainy pod strefę wpływów FR,
+zapewne przez podstawienie promoskiewskiego pachołka, wprowadzonoby marionetkowy reżim jak na Białorusi, a proukraińskie elity poszłyby do piachu.<p>
 
-<p>Putin jak najbardziej ma przewidziany wariant pokojowy - byłoby to oddanie Ukrainy pod strefę wpływów Putina,
-zapewne przez podstawienie promoskiewskiego pachołka.<p>
+
+<p>   Bardzo ciekawy <a href="https://wiadomosci.gazeta.pl/wiadomosci/7,114881,28072731,usa-rosja-chce-sfabrykowac-pretekst-do-inwazji-na-ukraine.html?fbclid=IwAR2U0a40WPEI9UYd4f7hHFjdb0llVLNeZ8gXWHlpYlUtc7Np-F2Ikn4rI0E#opinions
+">LINK </a>. I kolejny: <a href="https://wiadomosci.gazeta.pl/wiadomosci/7,114881,28076762,bild-ujawnia-plan-putina-kapitulacja-miast-i-stworzenie-obozow.html?fbclid=IwAR2lvialvirMdpqqKYgTbRVk-P9M1bVqeYoPZuEjjqhPVYcrJYwji4bnzII
+">LINK</a> Zauważcie że te publikacje powstały SPRZED inwazji na Ukrainę </p>
+
 
 <p>Nie podoba mi się oficjalna medialna narracja - mało konkretnych informacji , przez parę minut pokazuje się te same
 urywki i tak w kółko. Zero analizy dostęnych scenariuszy. Podśmiehuja z gigantycznej jednak armii rosyjkiej - owszem,
@@ -59,9 +61,6 @@ publiczna. Tak jak z covidem - nadmięrnie rozkręcanie problemu spowodowało ż
 ginęły już dziesiątki tysięcy ludzi. Ja nie chcę żeby ludzie byli obojętni na zbrodnie i krzywdę - ale takie nadmierne
 podsycanie powoduje że ludzie tak właśnie reagują, a właściwie nie reagują.</p>
 
-
-<p>Bezmyślne pchanie Ukrainy do UE i NATO to nie jest dobra rzecz. Można by było na dziesiątki innych sposób wspierać
-Ukrainę , a to najwyżej zostawić na sam koniec. </p>
 
 <p>Tak więc co można było robić już dekady temu dla Ukrainy i światowego pokoju.
 <p>-korupcja. Tak - Ukraina to jeden z bardziej skorumpowanych krajów w Europie i na świecie. Ktoś mógłby im podsunąć
@@ -78,8 +77,7 @@ wyrównywać obszarowo szanse. Tutaj mamy podział na dość bogaty wschód i ma
 Polski. Mogliby trochę sami sobie pomóc - zainwestować w infrastrukturę na zachodzie, może i kosztem wschodu, ale który
 jest teraz łakomym kąskiem , efekt jest taki że wystarczy skoncentrować wojska w jednym miejscu żeby podbić to co stanowi
 z 90% PKB kraju. Korupcja to też wynik zwyczajnej "kacapskiej" mentalności u zwykłych ludzi, u nas też to funkcjonuje,
-ale już w dużo mniejszym stopniu. Tam w normie jest np. że się płaci za dyplom uczelni wyższych. Policjant to był
-człowiek któremu trzeba dać w łapę a nie który stoi na straży prawa. Ot, tacy ludzie i taki kraj.</p>
+ale już w dużo mniejszym stopniu. Tam w normie jest np. że się płaci za dyplom uczelni wyższych. .</p>
 <p>-dobrze opłacony urzędnik - tak brzmi to kontrowersyjnie, ale to też jest potrzebne dla odpowiedniego funkcjonowania
 państwa, inaczej też nie wyzbędziesz się korupcji. Tam cały naród był oburzony że polski minister dostał tyle co u nas
 na kasie w Żabce.</p>
@@ -106,35 +104,9 @@ Słaby, źle zorganizowany kraj z niewykształconym społeczeństwem łatwiej mo
 Samo rozczulanie się a nawet wysyłanie miliardów nie pomoże - te pieniądze i tak zostaną przewalone przez korupcję.
 
 <br>To też nie chodzi o znieczulanie was, nie mówię też że tu się nic nie działo i nie było żadnych postępów. Putin się
-rzucił na Ukrainę właśnie przez walkę z oligarchią , korupcją, o demokratyczne wartości.
+rzucił na Ukrainę właśnie przez walkę z oligarchią , korupcją, o demokratyczne wartości. W Ukrainie są jakieś instytucje do zwalcznia korupcji , w Rosji za to się idzie do gułagu.
 
 
-<br>Ze strony wszelkiej maści ekspertów nie widać żadnego konkretnego scenariusza, planu, kompromisu. Wiadomo że
-Ukraińcy się na.pierdalają, trzeba im wysyłać kasę, jakieś pomoce i broń, ale nie ma konkretnego stanowiska żeby im
-pomóc, coś tam się "dziubie". Może żeby uniknąć rozlewu krwi już lepiej by było uznać neutralność Ukrainy. Pytanie co
-zrobiliby Rosjanie - wsadziliby ludzi do gułagów, a może by lepiej zagospodarowali obszar?
-<br>Ja bym miał w głowie taki "bezkrwawy scenariusz" - można by było pójść na żądania Rosji, armię wycofać do państw
-NATO*, postawić tam jakiegoś ruskiego pachołka, ale hybrydowo dalej wspierać Ukrainę. Dać pozory dla Ławrowa że
-realizuje się jego narracja. Maksymalnie załączyć wszystkie bezkrwawe metody wpływania na reżim. Medialnie cały czas
-monitować sytuację, skupić uwagę organizacji które się zajmują prawami człowieka, wspomagać działania antykorupcyjne,
-czy inne wszelkiego rodzaju które wspomagają HDI. Raczej i tak nie stałby się to ot taki kolejny podległy ruski obwód
-jak Białoruś - Ukraińcy za dużo już widzieli, za bardzo przesiąkli zachodem. To by oczywiście nie było ot takie poddanie
-się i zapomnienie o sprawie - maksymalnie wtedy trzeba zbroić wschodnią flankę czy armię terytorialną, może nawet
-zapewnić powszechne przeszkolenie wojskowe, tak żęby każdy mógł potencjalnie bronić kraju. Możliwe że ostatecznie to i
-tak pójdzie w taki scenariusz, w sumie prawdopodobne że miasta się w końcu poddadzą, ale ta walka i tak będzie miała
-gigantyczne znaczenie.
-
-<br>*powiecie że tak się nie da, no bo przecież Ukraina nie jest w NATO. Ale się wypowiem - to by się mogło odbywać też
-na zasadzie hybrydowej , sprzedaży broni, żołnierze mogliby wyemigrować i zasilać wojska nato, bez oficjalnej ustawy.
-Też nie jestem ekspertem - ale znacie jakiegoś eksperta który ma tutaj coś sensownego do powiedzenia, jakieś
-scenariusze, rozwiązania? Zapodajcie, chętnie posłucham. Chodziło o to żeby maszyneria wojskowa nie była przejęta przez
-nowy reżim.
-
-<br>Raczej wątpię że po Ukrainie od razu by się rzucił na kraje bałtyckie i Polskę - Ukraina nie jest w NATO, od wielu
-lat są tam działania hybrydowe, ruchy separatystyczne, rosyjskojęzyczna ludność, niewykorzystana baza surowcowa to też
-gigantyczny przyczynek do wojny. Oczywiście Putin by napierał na wydalenie państw ze wschodniej flanki z nato. Dlatego
-też nigdy nie miałem na myśli zaprzestania działań czy ignorowania imperialnych zapędów Rosji. Ale BYĆ MOŻE można było
-uniknąć rozlewu krwi, a też pomóc Ukrainie.
 
 <br>Ale wcale nie mówię że opór był bezsensowny. Gdyby nie bohaterska walka Ukraińców świat by to potraktował jako
 operacją wojskową, nie zwrócono by na to takiej uwagi. Powstałaby kolejna Białoruś , a w ciągu dekady wzmocniony Sojuz
@@ -147,30 +119,16 @@ Kaszubi. Niestety to zbrodniczy system gdzie PKB nie trafia do ludzi, ale na kor
 zbrodniczą machinę wojenną - i tu jest wielkie bohaterstwo Ukrainy że z tym walczy, a kto wie , może zmieni to i też
 Federację Rosyjską.
 
-<br>Świat demokratyczny posiada wielke agendy i instytucje, nikt nie mógłby tam wesprzeć puczu, zorganizować kogoś w
-rodzaju Gorbaczowa? Niech Putin sobie siedzi w bunkrze - cały świat niech go uzna za ukrywającego się przestępcę a nie
-prezydenta. Rosjan jak najbardziej trzeba, moim zdaniem przekupić - niech w zamian za reformy i odejście od agresywnej
-polityki dostają nawet gigantyczne dofinansowanie. Niech Rosja stanie się drugą Japonią , tyle że potężniejszą, bo tam
-nie mają ani terytoriów, ani surowców.
+
 
 <br>
 <br>Na koniec cytaty różne, z różnych punktów widzenia:
 <br>
-<i>"Ukraina jest zwycięska"?? Doprawdy? Państwo, które przez 30 lat samo się od środka zawaliło i 1/4 jej ludności albo
-    z państwa uciekła albo jest na cmentarzach? Co Ukraina zrobiła w własną gospodarką, ze znakomitymi
-    przedsiębiorstwami jakie odziedziczyła po ZSRR ? Totalna, porażająca korupcja jako podstawa bytu jest "zwycięstwem
-    Ukrainy"?? Rozwalona służba zdrowia; ubezpieczenia społeczne, bezpieczeństwo i pewność dobrego działania państwa
-    które nie istnieją to objawy "zwycięstwa Ukrainy"?? Drwiny z regionów nie zgadzających się na taki stan rzeczy,
-    przemoc, przymusowa ukrainizacja, odrzucenie porozumienia mińskiego, nieukaranie sprawców i wykonawców krwawego
-    zamachu stanu w Kijowie, spalenia żywcem wielu ludzi w Odessie, wreszcie wojna domowa i decyzja by maksymalnie
-    zaognić sytuację ogłaszając w konstytucji państwa wolę szybkiego wstąpienia do NATO, to są dowody "zwycięskiej
-    Ukrainy"</i>
-<br><br>
-
-<i>"Przecież USA może od nas te migi 29 , i sprzedać je z bonifikatą 99.9 % Ukrainie , w czym problem ,my nie będziemy zamieszani w dostarczanie takiej broni do Ukrainy , a oni będą mieli czym walczyć ze złem ogólnoświatowym . A może się mylę i tak nie wolno ,ale skoro putler robi szewskie numery ,to czy innym już niekoniecznie . Przekazujmy swoją broń ofensywną UKR a USA nam da w to miejsce całkiem nową . Niemcy raczej niech się nie wychylają ze swoim 30-letnim spleśniałym złomem ,i tak w kajecie zapiszą ile to przekazali dobrego uzbrojenia Ukrainie do późniejszego rozliczenia."</i>
-
 
 <i>"Gdyby nie USA, które były naszym wieloletnim ochroniarzem, UE nigdy by się tak nie rozwinęła - wszystkie kraje UE mogły mieć w dupie wojsko i ładować kasę w inne sfery gospodarki. Ale dzięki współpracy Niemców z ruskimi można już o tym zapomnieć."</i>
 
 
 <div>
+
+
+W pierwszej turze wyborów prezydenckich 2019 roku jawnie prorosyjski kandydat Jurij Bojko w skali całego kraju uzyskał wynik zaledwie 11,7 procent. Jednak w obwodach ługańskim (zwłaszcza na północ od Dońca) i donieckim (wliczając w to większość obwodów Mariupola) był niekwestionowanym zwycięzcą
