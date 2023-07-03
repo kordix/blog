@@ -23,6 +23,19 @@
 <?php  include 'navbar.php' ?>
     
     <div  class="container" id="app" style="padding:1% 5%">
+
+    <article>    
+    <div style="display:flex;justify-content:space-between">   
+        <div class="articleheader">
+        <a href="articles/propaganda.php"><h1>Propaganda rosyjska </h1></a>
+            <p class="data">02-07-2023</p>
+            <hr>
+            Tutaj chciałbym omówić najmocniejsze 'strzały' propagandy rosyjskiej rozniesione niczym plaga na TikToku i innych portalach. Trzeba przyznać że ta propaganda może być nie aż tak tępa, a czasem nawet trudna do odparcia.`
+            <p><a href="articles/propaganda.php" class="readmore">Czytaj więcej</a></p>
+         </div>
+         <a href="articles/propaganda.php"> <img src="/images/propaganda.png" class="articleimage" alt=""></a>
+    </div>
+    </article>
     
     <article>    
     <div style="display:flex;justify-content:space-between">   
@@ -38,7 +51,7 @@
     </article>
 
 
-    <article>    
+    <!-- <article>    
     <div style="display:flex;justify-content:space-between">   
         <div class="articleheader">
         <a href="articles/ukraina.php"><h1>Przemyślenia o Ukrainie </h1></a>
@@ -50,41 +63,45 @@
          </div>
          <a href="articles/ukraina.php"> <img src="/images/ukraina.jpg" class="articleimage" alt=""></a>
     </div>
-    </article>
-
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    </article> -->
 
 
 
-    <?php //include 'articles/covid.html' ?>
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
+    <?php //include 'articles/covid.html'?>
 
     <?php //include 'articles/ukraina.html'?>
 

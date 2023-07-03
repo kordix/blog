@@ -27,7 +27,7 @@
     <h1>Przemyślenia o Ukrainie</h1>
     <p class="data" style="margin-bottom:0px">30-06-2022</p>
     </div>
-    <a href="articles/covid.php"> <img src="/images/ukraina.jpg" style="height:80px;width:130px;object-fit:contain " alt=""> </a>
+    <a href="/articles/ukraina.php"> <img src="/images/ukraina.jpg" style="height:80px;width:130px;object-fit:contain " alt=""> </a>
 
 </div>
 
