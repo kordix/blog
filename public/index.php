@@ -24,13 +24,27 @@
     
     <div  class="container" id="app" style="padding:1% 5%">
 
+
+    <article>    
+    <div style="display:flex;justify-content:space-between">   
+        <div class="articleheader">
+        <a href="articles/nato.php"><h1>Zbrodnicze akcje NATO </h1></a>
+            <p class="data">05-07-2023</p>
+            <hr>
+            Czy NATO to faktycznie zbrodnicza organizacja która trzyma pod swoją hegemonią cały świat? A może te kilkanaście interwencji z ostatnich dziesięcioleci miało jakieś drugie dno?
+            <p><a href="articles/nato.php" class="readmore">Czytaj więcej</a></p>
+         </div>
+         <a href="articles/nato.php"> <img src="/images/nato.png" class="articleimage" alt=""></a>
+    </div>
+    </article>
+
     <article>    
     <div style="display:flex;justify-content:space-between">   
         <div class="articleheader">
         <a href="articles/propaganda.php"><h1>Propaganda rosyjska </h1></a>
             <p class="data">02-07-2023</p>
             <hr>
-            Tutaj chciałbym omówić najmocniejsze 'strzały' propagandy rosyjskiej rozniesione niczym plaga na TikToku i innych portalach. Trzeba przyznać że ta propaganda może być nie aż tak tępa, a czasem nawet trudna do odparcia.`
+            Tutaj chciałbym omówić najmocniejsze 'strzały' propagandy rosyjskiej rozniesione niczym plaga na TikToku i innych portalach. Trzeba przyznać że ta propaganda może być nie aż tak tępa, a czasem nawet trudna do odparcia...
             <p><a href="articles/propaganda.php" class="readmore">Czytaj więcej</a></p>
          </div>
          <a href="articles/propaganda.php"> <img src="/images/propaganda.png" class="articleimage" alt=""></a>
@@ -43,7 +57,7 @@
         <a href="articles/covid.php"><h1>Przemyślenia o covid </h1></a>
             <p class="data">30-08-2022</p>
             <hr>
-            W internecie czy gdziekolwiek w miediach cieżko znaleźć racjonalny głoś odnośnie pandemii covid. Mamy do czynienia albo z "oficjalną narracją" , która najczęściej wiąże się z gównopaniką, albo z teoriami spiskowymi lub zupełnym "olewactwem" niemałego też zagrożenia...
+            W internecie czy gdziekolwiek w mediach cieżko znaleźć racjonalny głoś odnośnie pandemii covid. Mamy do czynienia albo z "oficjalną narracją" , która najczęściej wiąże się z gównopaniką, albo z teoriami spiskowymi lub zupełnym "olewactwem" niemałego też zagrożenia...
             <p><a href="articles/covid.php" class="readmore">Czytaj więcej</a></p>
          </div>
         <a href="articles/covid.php"> <img src="/images/covid.jpg" class="articleimage" alt=""> </a>

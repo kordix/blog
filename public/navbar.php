@@ -21,10 +21,10 @@
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
                             <li class="nav-item">
-                                <a class="nav-link" href="">O mnie</a>
+                                <a class="nav-link" href="/articles/omnie.php">O mnie</a>
                             </li>
                             <li class="nav-item" >
-                                <a class="nav-link" href="register.php">Kontakt</a>
+                                <a class="nav-link" href="/articles/kontakt.php">Kontakt</a>
                             </li>
 
                         <li class="nav-item" style="transform: translateY(20%);">

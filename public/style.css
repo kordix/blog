@@ -39,3 +39,11 @@ p{
     line-height: 28px;
     font-weight: 500;   
 }
+
+  #wyloguj {
+      display: block;
+  }
+
+  #app {
+      text-align: justify;
+  }
