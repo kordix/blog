@@ -34,7 +34,7 @@
             Czy NATO to faktycznie zbrodnicza organizacja która trzyma pod swoją hegemonią cały świat? A może te kilkanaście interwencji z ostatnich dziesięcioleci miało jakieś drugie dno?
             <p><a href="articles/nato.php" class="readmore">Czytaj więcej</a></p>
          </div>
-         <a href="articles/nato.php"> <img src="/images/nato.png" class="articleimage" alt=""></a>
+         <a href="articles/nato.php"> <img src="/images/nato2.png" class="articleimage" alt=""></a>
     </div>
     </article>
 
