@@ -31,10 +31,10 @@
     <h1>Zbrodnicze akcje NATO</h1>
     <p class="data" style="margin-bottom:0px">02-07-2023</p>
     </div>
-    <a href="/articles/nato.php"> <img src="/images/nato.png" style="height:80px;width:130px;object-fit:contain " alt=""> </a>
+    <a href="/articles/nato.php"> <img src="/images/nato2.png" style="height:80px;width:130px;object-fit:contain " alt=""> </a>
 </div>
 
-
+    <p> Czy NATO to faktycznie zbrodnicza organizacja która trzyma pod swoją hegemonią cały świat? A może te kilkanaście interwencji z ostatnich dziesięcioleci miało jakieś drugie dno?</p>    
     <p><b><i>Irak</i></b></p>
     <p> Tu nie chodziło  tylko o WTC i WMD. Bezpośrednią przyczyną była inwazja Iraku na Kuwejt.</p>    
         
