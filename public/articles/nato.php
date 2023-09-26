@@ -35,6 +35,7 @@
 </div>
 
     <p> Czy NATO to faktycznie zbrodnicza organizacja która trzyma pod swoją hegemonią cały świat? A może te kilkanaście interwencji z ostatnich dziesięcioleci miało jakieś drugie dno?</p>    
+   <br>
     <p><b><i>Irak</i></b></p>
     <p> Tu nie chodziło  tylko o WTC i WMD. Bezpośrednią przyczyną była inwazja Iraku na Kuwejt.</p>    
         
