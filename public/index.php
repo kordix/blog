@@ -28,7 +28,7 @@
     <article>    
     <div style="display:flex;justify-content:space-between">   
         <div class="articleheader">
-        <a href="articles/nato.php"><h1>Zbrodnicze akcje NATO </h1></a>
+            <a href="articles/nato.php"><h1>Zbrodnicze akcje NATO </h1></a>
             <p class="data">05-07-2023</p>
             <hr>
             Czy NATO to faktycznie zbrodnicza organizacja która trzyma pod swoją hegemonią cały świat? A może te kilkanaście interwencji z ostatnich dziesięcioleci miało jakieś drugie dno?

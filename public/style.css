@@ -28,8 +28,9 @@ body {
 
 @media (max-width: 800px){
     .articleimage{
-        flex-grow: 100%;
-        flex-basis:100%;
+        flex-grow: 10%;
+        flex-basis:10%;
+        display:none;
     }
 }
 
@@ -47,3 +48,7 @@ p{
   #app {
       text-align: justify;
   }
+
+.cytatysection *{
+    font-size:14px;
+}
