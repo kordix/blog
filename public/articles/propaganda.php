@@ -111,9 +111,13 @@ https://pl.wikipedia.org/wiki/Siergiej_Magnitski
 https://demagog.org.pl/fake_news/ukraina-mordowala-ludnosc-donbasu-i-luganska-falsz/</a>
 
 
-
-
+<a href="
 https://wykop.pl/link/7334161/rosja-patriarcha-cyryl-pozbedzie-sie-duchownego-sprzeciwial-sie-wojnie
+">
+https://wykop.pl/link/7334161/rosja-patriarcha-cyryl-pozbedzie-sie-duchownego-sprzeciwial-sie-wojnie
+</a>
+
+
 
 
 
