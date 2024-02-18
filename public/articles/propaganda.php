@@ -85,7 +85,7 @@ https://pl.wikipedia.org/wiki/Siergiej_Magnitski
     <p><b>Rosja walczy z zepsutym zachodem o konserwatywne, religijne wartości</b></p>
     <p>Jednak to w Rosji jest największa ilość aborcji per capita , przez co społeczeństwo powoli tam wymiera. Też wielbi sie tam Stalina który wprowadzał masową ateizację, wymordował duchownych a kościoły zmieniał na magazyny.</p>
 
-    <p><b>Zamiast walczyć trzeba siąść do stołu negocjacyjnego</b></p>
+    <p><b><i>Zamiast walczyć trzeba siąść do stołu negocjacyjnego</i></b></p>
     <p>Pokazywanie słabości i ustępstwa terytorialne prowadzą tylko do większej eskalacji konfliktu. Właśnie zajęcie Krymu było kluczowe do pełnoskalowej inwazji, i nie zaspokoiło wcale roszczeń terytorialnych Putina. Można iść na jakiś zgniły kompromis, ale to zadziała też tylko wtedy jeśli Ukraina dostanie dostateczne środki do obrony. </p>
 
 </div>
