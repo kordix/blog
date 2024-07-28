@@ -62,7 +62,7 @@ https://defence24.pl/geopolityka/do-donbasu-wjechal-setny-konwoj-z-rosji-kijow-p
     <p>
      Nie można powoływać się na czyjeś zbrodnie żeby usprawiedliwić swoje. Idąc tym tropem Hitler mógł najechać Belgię bo popełnili oni zbrodnie w Kongo. 
         
-     Ogromna różnica jest też taka że wielu ludzi na zachodzie krytykuje interwencje zbrojne USA, w Rosji idzie się do więzienia jeśli powie się wojna zamiast <i>specjalna operacja wojskowa</i>
+     Ogromna różnica jest też taka że wielu ludzi na zachodzie krytykuje interwencje zbrojne USA, w Rosji idzie się do więzienia jeśli powie się 'wojna' zamiast <i>specjalna operacja wojskowa</i>
            </p>
 
     <p><i><b>Amerykanie opłacili pucz (coup) na Ukrainie</b></i></p>
@@ -82,11 +82,18 @@ https://pl.wikipedia.org/wiki/Siergiej_Magnitski
     <p><i><b>Rosja niszczy tylko cele militarne. Straty w ludziach wynikają z tego że wojsko chowa się między cywilami.</b></i></p>
     <p>Jest masa dowodów na grabieże, gwałty, zniszczenia i tortury , co nie miało nic wspólnego z <i>collateral damage</i>. </p>
 
-    <p><b>Rosja walczy z zepsutym zachodem o konserwatywne, religijne wartości</b></p>
+    <p><b><i>Rosja walczy z zepsutym zachodem o konserwatywne, religijne wartości</i></b></p>
     <p>Jednak to w Rosji jest największa ilość aborcji per capita , przez co społeczeństwo powoli tam wymiera. Też wielbi sie tam Stalina który wprowadzał masową ateizację, wymordował duchownych a kościoły zmieniał na magazyny.</p>
 
     <p><b><i>Zamiast walczyć trzeba siąść do stołu negocjacyjnego</i></b></p>
     <p>Pokazywanie słabości i ustępstwa terytorialne prowadzą tylko do większej eskalacji konfliktu. Właśnie zajęcie Krymu było kluczowe do pełnoskalowej inwazji, i nie zaspokoiło wcale roszczeń terytorialnych Putina. Można iść na jakiś zgniły kompromis, ale to zadziała też tylko wtedy jeśli Ukraina dostanie dostateczne środki do obrony. </p>
+
+    <p><b><i>Ta wojna to proxy war / pranie brudnych pieniędzy / napełnianie kabzy korporacjom zbrojeniowym</i></b></p> 
+    
+    <p>Powiem szczerze że też kiedyś byłem mocno wciągnięty w spiskowe teorie dziejów. Idąc do apteki wspieramy przemysł big pharma a kupując w sklepie kit dekarski wspieramy korporacje które produkują kit dekarski. Dalej tym tropem dochodzimy do tego że światem rządzą Żydzi i masoni. 
+
+    
+    </p>
 
 </div>
 
